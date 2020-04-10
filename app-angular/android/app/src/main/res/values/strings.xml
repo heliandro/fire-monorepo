@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">app-angular</string>
+    <string name="title_activity_main">app-angular</string>
+    <string name="package_name">com.exemple.teste</string>
+    <string name="custom_url_scheme">com.exemple.teste</string>
+</resources>
